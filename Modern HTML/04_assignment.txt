@@ -1,0 +1,6 @@
+Que.4 List any 3 ways which help us in improving the accessibility Of HTML.
+
+Sol.
+1. Semantic HTML
+2. Alternative Text
+3. Declare the Language

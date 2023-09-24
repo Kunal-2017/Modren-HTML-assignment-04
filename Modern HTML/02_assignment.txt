@@ -1,0 +1,12 @@
+Que.2 What are HTML Entities ? List out 5 commonly used in HTML entities.
+
+Sol.
+HTML entities are reserved characters that are used in the HTML document.These characters are not present in our keyboard.They provide a wide range of characters,allowing us to add icons,geometrical shapes,mathematical operators,and so on. Code of these reserved characters always start with ampersand symbol(&).  
+
+
+These are 5 commonly used in HTML entities are:
+1.  -Non-breaking space:Entity name- &nbsp; or Entity number- &#160;
+2.<-Less than symbol:Entity name-&lt; or Entity number-&#60;
+3.>-Greater than symbol:Entity name-&gt; or Entity number-&#62;
+4.&-Ampersand symbol:Entity name-&amp; or Entity number-&#38;
+5.Copy right symbol:Entity name-&copy; or Entity number-&#169;
